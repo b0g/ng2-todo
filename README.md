@@ -11,7 +11,7 @@ Pour ce projet nous avons utilisé le navigateur chrome sous Ubuntu (Version 58 
 
 Pour lancer le projet en mode développement :
 ```
-git clone https://RomainMarecat@bitbucket.org/RomainMarecat/ng2-todo-miashs.git
+git clone https://github.com/b0g/ng2-todo.git
 cd ng2-todo
 npm install
 npm install -g @angular/cli
