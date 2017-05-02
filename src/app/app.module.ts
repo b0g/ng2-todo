@@ -12,7 +12,6 @@ import {SpeechSynthesisComponent} from "./speech/speech-synthesis/speech-synthes
 import {SpeechRecognitionComponent} from "./speech/speech-recognition/speech-recognition.component";
 import {SpeechRecognitionService} from "./speech/speech-recognition.service";
 import {SpeechSynthesisService} from "./speech/speech-synthesis.service";
-import { ComponentNameComponent } from './component-name/component-name.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +20,6 @@ import { ComponentNameComponent } from './component-name/component-name.componen
     TodoComponent,
     SpeechSynthesisComponent,
     SpeechRecognitionComponent,
-    ComponentNameComponent
   ],
   exports: [
     TodoListComponent
